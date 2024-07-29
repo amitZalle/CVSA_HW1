@@ -1,0 +1,6 @@
+path: /home/student/Desktop/CVSA_HW1_data/labeled_image_data/
+train: images/train
+val: images/val
+
+nc: 3
+names: ['Empty', 'Tweezers', 'Needle_driver']
