@@ -14,7 +14,7 @@ To run the code itself you must fix the paths in all files that will fit. if you
 
 To run the training of the model, you must have 'yolov8n.pt' file in the same folder, and run the file 'runProgram.py'.
 
-The download link of the final model's weights is: https://drive.google.com/file/d/1wrFZihOdjx314JzT6Va0Pe7LxtDrLJ00/view?usp=sharing
+The final model weights are saved as "pseudo_trained_ood_model.pt" and the download link of the final model's weights is: https://drive.google.com/file/d/1wrFZihOdjx314JzT6Va0Pe7LxtDrLJ00/view?usp=sharing
 
 To predict on an image, you must insert the image path inside the 'predict.py' file and run it. the prediction will appear in the main folder under 'image_prediction.png'.
 
