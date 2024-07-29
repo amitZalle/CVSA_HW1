@@ -5,7 +5,7 @@ This project create a model that predict boundrary boxes, classes(Empty, Tweezer
 We have an initial 61 labeled images in YOLO format, two ID videos, and two OOD videos.
 
 To run this you must have the data needed inside CVSA_HW1_data folder(inside it: labeled_image_data, id_video_data, ood_video_data).
-You also must install ultralytics and albumentations libraries.
+You also must install ultralytics and albumentations libraries, and use the requierments.txt file given.
 
 First connect to conda enviournment of YOLO in the terminal with:
 source yolov8_env/bin/activate
